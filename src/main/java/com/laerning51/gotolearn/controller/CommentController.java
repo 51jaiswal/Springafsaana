@@ -10,6 +10,6 @@ public class CommentController {
     public String post(){
         return "hello";
     }
-    @GetMapping("/post")
+    
 
 }
